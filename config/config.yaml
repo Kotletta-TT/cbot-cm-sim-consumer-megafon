@@ -12,6 +12,6 @@ rabbitmq:
   queue: simcards
 
 log-level: INFO
-log-name: TRUNK-INFO
+log-name: SIM-INFO
 
 timeout-request: 0
